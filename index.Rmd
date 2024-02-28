@@ -7,7 +7,7 @@ output: html_document
 ---
 # Joy's Github Repo page
 
-Welcome to Joy's Page
+Welcome to Joy's Page 1
 
 ![Figure 1](pic.jpg)
 
